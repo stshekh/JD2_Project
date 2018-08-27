@@ -3,7 +3,7 @@
 *.iws
 *.iml
 *.ipr
-.ideaDataSources/
+.ideaDataSources
 
 ### Maven ###
 target/
